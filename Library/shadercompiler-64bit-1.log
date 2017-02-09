@@ -1,0 +1,49 @@
+Base path: C:/Program Files/Unity5.2.2/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2700
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=541 outsize=1420 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=541 outsize=697 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=797 outsize=1639 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=797 outsize=1111 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=1420 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=624 kw=SHADOWS_CUBE pd= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (83): unrecognized identifier 'UNITY_INSTANCE_ID'\nCompiling Vertex program with DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP
+  api=4 type=0 insize=8468 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (83): unrecognized identifier 'UNITY_INSTANCE_ID'\nCompiling Fragment program with DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP
+  api=4 type=1 insize=8468 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (83): unrecognized identifier 'UNITY_INSTANCE_ID'\nCompiling Vertex program with DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP VERTEXLIGHT_ON
+  api=4 type=0 insize=8468 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP VERTEXLIGHT_ON pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (83): unrecognized identifier 'UNITY_INSTANCE_ID'\nCompiling Fragment program with DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP
+  api=4 type=1 insize=8468 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (81): undeclared identifier 'unity_ObjectToWorld'\nCompiling Vertex program with FOG_EXP WATER_REFRACTIVE
+  api=4 type=0 insize=3453 outsize=0 kw=FOG_EXP WATER_REFRACTIVE pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (81): undeclared identifier 'unity_ObjectToWorld'\nCompiling Fragment program with FOG_EXP WATER_REFRACTIVE
+  api=4 type=1 insize=3453 outsize=0 kw=FOG_EXP WATER_REFRACTIVE pd= ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=5093 kw=POINT SHADOWS_CUBE SHADOWS_SOFT FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=8505 kw=POINT SHADOWS_CUBE SHADOWS_SOFT FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program with POINT FOG_EXP
+  api=4 type=0 insize=5297 outsize=0 kw=POINT FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'UnityObjectToClipPos'\nCompiling Fragment program with POINT FOG_EXP
+  api=4 type=1 insize=5297 outsize=0 kw=POINT FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program with POINT FOG_EXP
+  api=4 type=0 insize=5297 outsize=0 kw=POINT FOG_EXP pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'UnityObjectToClipPos'\nCompiling Fragment program with POINT FOG_EXP
+  api=4 type=1 insize=5297 outsize=0 kw=POINT FOG_EXP pd= ok=0
